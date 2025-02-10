@@ -56,9 +56,3 @@ Visit **http://127.0.0.1:5000/** in your browser.
 4. Click **Submit** to see your typing speed and accuracy.
 5. Click **Try Again** to reload a new phrase.
 
-## Contributing
-Feel free to contribute by submitting pull requests or reporting issues.
-
-## License
-This project is open-source and available under the **MIT License**.
-
